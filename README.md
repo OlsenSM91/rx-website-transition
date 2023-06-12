@@ -1,6 +1,8 @@
 # rx-website-transition
 Demo:
-<video src='https://github.com/OlsenSM91/rx-website-transition/raw/main/2023-06-11%2018-23-58.mkv' width=180/></video>
+
+https://github.com/OlsenSM91/rx-website-transition/assets/130707762/40854a18-8665-4a15-8f75-ac46a999842a
+
 
 Complete Rx-TEK HTML with unnecessary javascript removed and Joining CNS modal pop up to ease into a transition
 
